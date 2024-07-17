@@ -137,6 +137,10 @@
  a.externo::after {
     content: "\00A0\1F517";
  }
+
+ img.imagem {
+   max-width: 350px;
+ }
  
  img.pequena {
     max-width: 350px;
