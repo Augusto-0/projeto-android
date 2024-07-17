@@ -140,6 +140,8 @@
 
  img.imagem {
    max-width: 350px;
+   display: block;
+   margin: auto;
  }
  
  img.pequena {
