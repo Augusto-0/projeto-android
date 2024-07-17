@@ -138,12 +138,10 @@
     content: "\00A0\1F517";
  }
 
- img.imagem {
-   max-width: 360px;
-   display: block;
-   margin: auto;
+ main img {
+   width: 100%;
  }
- 
+
  img.pequena {
     max-width: 350px;
     display: block;
